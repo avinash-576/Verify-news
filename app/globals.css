@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+@layer base {
+  * {
+    @apply border-slate-200;
+  }
+  body {
+    @apply bg-slate-50 text-slate-900;
+  }
+}

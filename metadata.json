@@ -1,0 +1,5 @@
+{
+  "name": "Verify News",
+  "description": "A tool to analyze social media posts and news articles for credibility, bias, and factual accuracy.",
+  "requestFramePermissions": []
+}
